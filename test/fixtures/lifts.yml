@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2016-10-15
+  lift_name: MyString
+  is_metric: false
+  weight_lifted: 1
+  reps_performed: 1
+  one_rep_max: 1
+
+two:
+  date: 2016-10-15
+  lift_name: MyString
+  is_metric: false
+  weight_lifted: 1
+  reps_performed: 1
+  one_rep_max: 1
