@@ -1,24 +1,10 @@
-# README
+# Life Progress
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A basic CRUD web application to keep track of work out data.
 
-Things you may want to cover:
+Developed with React and Rails. (CoffeeScript)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Instructions:
+1. Clone Git Repository
+2. Bundle Install
+3. rails s in console
